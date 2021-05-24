@@ -1,0 +1,38 @@
+ [
+    {
+    "id": 1,
+    "Name": "Biral House",
+    "Type": "House",
+    "Prise": 15000
+  },
+  {
+    "id": 2,
+    "Name": "Jaw House",
+    "Type": "House",
+    "Prise": 12000
+  },
+  {
+    "id": 3,
+    "Name": "Maxi House",
+    "Type": "House",
+    "Prise": 30000
+  },
+  {
+    "id": 4,
+    "Name": "Green House",
+    "Type": "House",
+    "Prise": 13400
+  },
+  {
+    "id": 5,
+    "Name": "Mayar House",
+    "Type": "House",
+    "Prise": 17800
+  },
+   {
+    "id": 6,
+    "Name": "marvel House",
+    "Type": "House",
+    "Prise": 115000
+  }
+]
